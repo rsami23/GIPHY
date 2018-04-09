@@ -1,0 +1,25 @@
+
+#header {
+    text-align: center;
+    color: white;
+    background-color: #81ACC6;
+    border-bottom: solid 3px white;
+}
+
+#form {
+    border: solid 3px #81ACC6;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+input {
+    width: 100%;
+}
+
+.container {
+    background-color: white;
+}
+
+body {
+    background-color: #D1D2D2;
+}
